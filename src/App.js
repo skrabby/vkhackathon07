@@ -102,7 +102,7 @@ function App() {
                     mode="tertiary"
                     before={
                       <Icon56GalleryOutline
-                        wifth={28}
+                        width={28}
                         height={28}
                         fill="3F8AE0"
                       />
